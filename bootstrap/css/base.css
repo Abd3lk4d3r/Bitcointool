@@ -1,0 +1,67 @@
+
+  #sites .jumbotron{
+	  background-color:white;
+	  margin-top:-50px;
+	  margin-left:200px;
+	  width:800px;
+	  height:50px;
+  }
+  #sites b {
+
+	  margin-left:80px;
+	  color:rgb(132, 132, 132);
+  }
+  #param {
+		margin-top:30px;
+		margin-left:-50px;
+		
+  }
+  a {
+	  margin-left:20px;
+	  text-decoration:none;
+	  text-decoration: underline;
+  }
+  a:hover {
+	
+		background-color: ;
+	  text-decoration:none;
+  }
+  .checkbox {
+	  width: 400px;  
+  }
+ .checkbox b {
+	 margin:10px;
+	 margin-left:40px;
+     float:left;
+		display:block;
+ }
+ #toemail {
+	 position : absolute ;
+	 left: 600px;
+	 top:120px;
+
+ }
+ #finbtn {
+	 margin-left:80px;
+ }
+
+ input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+#fin {
+	float:left;
+	display:block;	
+	width:190px;
+	margin:10px;
+	margin-top:30px;
+    margin-left:10px;
+	 
+}
+
+#report_page {
+ 
+  
+}
